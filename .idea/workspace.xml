@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f374c5c6-c976-4b7b-965f-fc7b2e9053b6" name="Changes" comment="" />
+    <list default="true" id="f374c5c6-c976-4b7b-965f-fc7b2e9053b6" name="Changes" comment="Creción de los 4 paquetes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DbOMqRsDYpZt1gqwuxQI9x5lTh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +34,29 @@
       <option name="presentableId" value="Default" />
       <updated>1660964278042</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creción de los 4 paquetes">
+      <created>1660964552145</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660964552145</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creción de los 4 paquetes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creción de los 4 paquetes" />
   </component>
 </project>
